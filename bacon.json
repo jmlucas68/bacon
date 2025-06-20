@@ -1,0 +1,96 @@
+{
+  "nombre": "Francis Bacon",
+  "vida": {
+    "fechas": "1561-1626",
+    "nacionalidad": "Inglés",
+    "cargos": [
+      "Filósofo",
+      "Estadista",
+      "Lord Canciller de Inglaterra",
+      "Attorney General"
+    ],
+    "contexto_historico": "Inglaterra de la era isabelina y jacobea, durante la consolidación del Estado moderno y el inicio de la Revolución Científica",
+    "contexto_filosofico": "Transición del escolasticismo medieval al empirismo moderno, crítica al método aristotélico y promoción del método experimental"
+  },
+  "pensamiento": {
+    "metodo_cientifico": {
+      "descripcion": "Bacon propuso el método inductivo basado en la observación y la experiencia, rechazando el razonamiento deductivo y los prejuicios previos. Abogó por una ciencia práctica y útil para la vida humana.",
+      "citas": [
+        "La verdad es hija del tiempo, no de la autoridad.",
+        "Si comienza uno con certezas, terminará con dudas; mas si se acepta empezar con dudas, llegará a terminar con certezas."
+      ],
+      "influencias": {
+        "recibidas": "Influencia indirecta de la tradición escolástica y la filosofía natural renacentista; crítica al aristotelismo",
+        "ejercidas": "Influyó en la Royal Society, el empirismo británico (Locke, Hume), la Ilustración europea (Voltaire, Diderot, Condorcet, Rousseau), y el desarrollo del método científico moderno"
+      }
+    },
+    "vision_historia": {
+      "descripcion": "Bacon analizó la historia del saber y la ciencia desde una perspectiva evolutiva, considerando el pecado original como un punto de inflexión radical en la relación del hombre con la naturaleza y el conocimiento.",
+      "citas": [
+        "El que no aplique nuevos remedios debe esperar nuevos males, porque el tiempo es el máximo innovador."
+      ]
+    },
+    "utopismo": {
+      "descripcion": "En 'Nueva Atlántida' imaginó una sociedad utópica regida por la ciencia y la cooperación, con la 'Casa de Salomón' como centro de investigación.",
+      "citas": [
+        "La vida humana reciba nuevos descubrimientos y poderes."
+      ]
+    }
+  },
+  "principales_obras": [
+    {
+      "titulo": "El avance del saber (The Advancement of Learning)",
+      "anio": "1605",
+      "descripcion": "Obra filosófica que sienta las bases de su reforma del conocimiento y clasifica las ciencias.",
+      "enlace_ebook": "https://www.gutenberg.org/ebooks/5500",
+      "enlace_tienda": "https://www.amazon.com/Advancement-Learning-Francis-Bacon/dp/0140439176"
+    },
+    {
+      "titulo": "Novum Organum o indicaciones relativas a la interpretación de la naturaleza",
+      "anio": "1620",
+      "descripcion": "Expone su método científico basado en la inducción y la observación.",
+      "enlace_ebook": "https://archive.org/details/bacon-francis.-la-gran-restauracion-novum-organum-ocr-2011",
+      "enlace_tienda": "https://www.amazon.com/Novum-Organum-Francis-Bacon/dp/0486294827"
+    },
+    {
+      "titulo": "Nueva Atlántida (New Atlantis)",
+      "anio": "1626 (publicación póstuma)",
+      "descripcion": "Visión utópica de una sociedad científica.",
+      "enlace_ebook": "https://www.gutenberg.org/ebooks/2434",
+      "enlace_tienda": "https://www.amazon.com/New-Atlantis-Francis-Bacon/dp/1544975011"
+    },
+    {
+      "titulo": "Sylva Sylvarum",
+      "anio": "1627 (publicación póstuma)",
+      "descripcion": "Tratado de historia natural inacabado.",
+      "enlace_ebook": "No disponible libremente en español",
+      "enlace_tienda": "https://www.amazon.com/Sylva-Sylvarum-Francis-Bacon/dp/1169922303"
+    }
+  ],
+  "influencias_recibidas": [
+    "Tradición escolástica (crítica)",
+    "Filosofía natural renacentista",
+    "Aristotelismo (crítica)"
+  ],
+  "influencias_ejercidas": [
+    "Royal Society",
+    "Empirismo británico (Locke, Hume)",
+    "Ilustración europea (Voltaire, Diderot, Condorcet, Rousseau)",
+    "Método científico moderno"
+  ],
+  "citas_destacadas": [
+    "La amistad duplica las alegrías y divide las angustias por la mitad.",
+    "Algunos libros son probados, otros devorados, poquísimos masticados y digeridos.",
+    "La lectura hace al hombre completo; la conversación, ágil, y el escribir, preciso.",
+    "La verdad es hija del tiempo, no de la autoridad.",
+    "El dinero es como el estiércol: no es bueno a no ser que se esparza."
+  ],
+  "referencias": {
+    "wikipedia": "https://es.wikipedia.org/wiki/Francis_Bacon",
+    "worldhistory": "https://www.worldhistory.org/trans/es/1-19495/francis-bacon/",
+    "frases": "https://proverbia.net/autor/frases-de-sir-francis-bacon",
+    "psicologiaymente": "https://psicologiaymente.com/reflexiones/frases-francis-bacon",
+    "articulo_academico": "https://www.memoria.fahce.unlp.edu.ar/art_revistas/pr.10031/pr.10031.pdf",
+    "archive_org": "https://archive.org/details/bacon-francis.-la-gran-restauracion-novum-organum-ocr-2011"
+  }
+}
